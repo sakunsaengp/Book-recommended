@@ -1,0 +1,28 @@
+.img-frame {
+  border: 5px solid rgb(79, 4, 125);
+  border-radius: 30px;
+}
+
+p {
+  font-family: "Pridi", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "Kanit", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+h3 {
+  font-family: "Kanit", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.item-img {
+  height: 50% !important;
+  width:  50% !important;
+  border: 5px solid rgb(12, 0, 116);
+}
