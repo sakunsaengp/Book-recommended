@@ -1,8 +1,3 @@
-.img-frame {
-  border: 5px solid rgb(79, 4, 125);
-  border-radius: 30px;
-}
-
 p {
   font-family: "Pridi", serif;
   font-weight: 400;
@@ -25,4 +20,8 @@ h3 {
   height: 50% !important;
   width:  50% !important;
   border: 5px solid rgb(12, 0, 116);
+}
+
+.container {
+  position: relative;
 }
