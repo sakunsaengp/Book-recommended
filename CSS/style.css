@@ -1,0 +1,45 @@
+p {
+  font-family: "Pridi", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "Kanit", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: black;
+}
+
+h3 {
+  font-family: "Kanit", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  color: black;
+}
+
+.container {
+  position: relative;
+}
+
+.position-next {
+  right: 22%;
+  top: 50%;
+  bottom: 200px;
+  margin-right: -19px;
+}
+
+.position-prev {
+  left: 20%;
+  top: 50%;
+  bottom: 200px;
+  margin-right: -19px;
+}
+
+.bg {
+  background-color: rgb(214, 243, 251);
+}
+
+.navbar-bg {
+  background-color: rgb(163, 219, 238);
+}
