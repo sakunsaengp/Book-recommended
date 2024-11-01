@@ -8,14 +8,7 @@ h1 {
   font-family: "Kanit", sans-serif;
   font-weight: 600;
   font-style: normal;
-  color: black;
-}
-
-h3 {
-  font-family: "Kanit", sans-serif;
-  font-weight: 600;
-  font-style: normal;
-  color: black;
+  color: rgb(4, 4, 130);
 }
 
 .container {
@@ -23,7 +16,7 @@ h3 {
 }
 
 .position-next {
-  right: 22%;
+  right: 23%;
   top: 50%;
   bottom: 200px;
   margin-right: -19px;
